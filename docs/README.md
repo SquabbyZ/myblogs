@@ -1,8 +1,8 @@
 ---
 home: true
-heroImage: /hero.png
+heroImage: /logo.png
 heroImageStyle: {
-  maxWidth: '600px',
+  maxWidth: '100px',
   width: '100%',
   display: block,
   margin: '9rem auto 2rem',

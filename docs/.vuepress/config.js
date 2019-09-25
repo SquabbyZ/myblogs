@@ -1,10 +1,30 @@
+// import ParticlesJS from "vue-particles";
+
 module.exports = {
   title: "SquabbyZ的小黑屋",
   description: "一只致力于成为全栈的小胖纸.",
   dest: "public",
   head: [
-    ["link", { rel: "icon", href: "/logo.png" }],
-    ["link", { rel: "manifest", href: "/manifest.json" }],
+    [
+      "script", //点击出小爱心
+      {
+        src: "http://lc-zltjehai.cn-n1.lcfile.com/1db11318835ac608f824/clicklove.js"
+      }
+    ],
+    [
+      "link",
+      {
+        rel: "icon",
+        href: "/logo.png"
+      }
+    ],
+    [
+      "link",
+      {
+        rel: "manifest",
+        href: "/manifest.json"
+      }
+    ],
     // 更多配置可以参考 https://github.com/vuejs/vuepress/blob/master/packages/docs/docs/.vuepress/config.js
     [
       "meta",
@@ -16,13 +36,26 @@ module.exports = {
   ],
   theme: "reco",
   themeConfig: {
-    type: "blog", //指定 type: 'blog'
+    // type: "blog", //指定 type: 'blog'
     nav: [
       //页面最上面的导航设置，text是文字名称，link 是跳转的路由，icon是图标
-      { text: "Home", link: "/", icon: "reco-home" },
-      { text: "TimeLine", link: "/timeLine/", icon: "reco-date" },
       {
-        text: "Contact",
+        text: "Home",
+        link: "/",
+        icon: "reco-home"
+      },
+      {
+        text: "TimeLine",
+        link: "/timeLine/",
+        icon: "reco-date"
+      },
+      {
+        text: "Library",
+        link: "/library/library",
+        icon: "reco-up"
+      },
+      {
+        text: "Conntect",
         icon: "reco-message",
         items: [
           // {
@@ -34,11 +67,6 @@ module.exports = {
             text: "GitHub",
             link: "https://github.com/SquabbyZ",
             icon: "reco-github"
-          },
-          {
-            text: "601709253@qq.com",
-            link: "https://github.com/SquabbyZ",
-            icon: "reco-email"
           },
           {
             text: "601709253",
@@ -66,17 +94,23 @@ module.exports = {
             icon: "reco-wechat"
           }
         ]
+      },
+      {
+        text: "about me",
+        link: "/views/other/guide.html",
+        icon: "reco-account"
       }
     ],
     // 博客设置
     blogConfig: {
       category: {
         location: 2, // 在导航栏菜单中所占的位置，默认2
-        text: "Category" // 默认 “分类”
+        text: "分类"
+        // 默认 “分类”
       },
       tag: {
         location: 3, // 在导航栏菜单中所占的位置，默认3
-        text: "Tag" // 默认 “标签”
+        text: "标签" // 默认 “标签”
       }
     },
     logo: "/logo.png",
@@ -86,11 +120,11 @@ module.exports = {
     // 自动形成侧边导航
     sidebar: "auto",
     // 最后更新时间
-    lastUpdated: "Last Updated",
+    lastUpdated: "最后更新时间",
     // 作者
     author: "zhuhaifeng",
     // 备案号
-    record: "xxxx",
+    // record: "30156924257911884(审核中)",
     // 项目开始时间
     startYear: "2019",
     themePicker: {
@@ -111,7 +145,7 @@ module.exports = {
      */
 
     // keyPage: {
-    //   keys: ['your password'],
+    //   keys: ['123456'],
     //   color: '#42b983',
     //   lineColor: '#42b983'
     // },
@@ -144,6 +178,38 @@ module.exports = {
       }
     ],
     "@vuepress/medium-zoom",
-    "flowchart"
+    "flowchart",
+    [
+      "vuepress-plugin-helper-live2d",
+      {
+        live2d: {
+          // 是否启用(关闭请设置为false)(default: true)
+          enable: true,
+          // 模型名称(default: hibiki)>>>取值请参考：
+          // https://github.com/JoeyBling/hexo-theme-yilia-plus/wiki/live2d%E6%A8%A1%E5%9E%8B%E5%8C%85%E5%B1%95%E7%A4%BA
+          model: "hijiki", //tororo
+          display: {
+            position: "left", // 显示位置：left/right(default: 'right')
+            width: 135, // 模型的长度(default: 135)
+            height: 300, // 模型的高度(default: 300)
+            hOffset: 35, //  水平偏移(default: 65)
+            vOffset: 0 //  垂直偏移(default: 0)
+          },
+          mobile: {
+            show: false // 是否在移动设备上显示(default: false)
+          },
+          react: {
+            opacity: 0.8 // 模型透明度(default: 0.8)
+          }
+        }
+      }
+    ], //live2d
+
+    []
   ]
+  // chainWebpack(config) {
+  //   config.externals({
+  //     "particles.js": ParticlesJS
+  //   });
+  // }
 };

@@ -8,7 +8,8 @@ module.exports = {
     [
       "script", //点击出小爱心
       {
-        src: "http://lc-zltjehai.cn-n1.lcfile.com/1db11318835ac608f824/clicklove.js"
+        src:
+          "http://lc-zltjehai.cn-n1.lcfile.com/1db11318835ac608f824/clicklove.js"
       }
     ],
     [
@@ -127,19 +128,19 @@ module.exports = {
     // record: "30156924257911884(审核中)",
     // 项目开始时间
     startYear: "2019",
-    themePicker: {
-      //不写这个参数有主题自带的默认主题颜色
-      //themePicker为自定义的主题颜色,值为false，就是禁用，为一个带有颜色的对象，就是可以自定义设置的主题色，内容。但是要在路径.vuepress/styles/palette.styl写同样的颜色值才可以。
-      colorName1: "#a2b5cd",
-      colorName2: "#4af79c",
-      colorName3: "#d61414",
-      colorName4: "#ee6140",
-      colorName5: "#d9c9ea",
-      colorName6: "#0399d3",
-      colorName7: "#061283",
-      colorName8: "#e05423",
-      colorName9: "#ffd700"
-    },
+    // themePicker: {
+    //   //不写这个参数有主题自带的默认主题颜色
+    //   //themePicker为自定义的主题颜色,值为false，就是禁用，为一个带有颜色的对象，就是可以自定义设置的主题色，内容。但是要在路径.vuepress/styles/palette.styl写同样的颜色值才可以。
+    //   colorName1: "#a2b5cd",
+    //   colorName2: "#4af79c",
+    //   colorName3: "#d61414",
+    //   colorName4: "#ee6140",
+    //   colorName5: "#d9c9ea",
+    //   colorName6: "#0399d3",
+    //   colorName7: "#061283",
+    //   colorName8: "#e05423",
+    //   colorName9: "#ffd700"
+    // },
     /**
      * 密钥 (if your blog is private)
      */

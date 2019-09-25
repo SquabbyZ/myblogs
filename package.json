@@ -17,6 +17,7 @@
     "dependencies": {
         "express": "^4.17.1",
         "vue": "^2.6.10",
+        "vue-particles": "^1.0.9",
         "vuepress-plugin-helper-live2d": "^1.0.0"
     }
 }

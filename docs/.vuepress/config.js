@@ -8,8 +8,7 @@ module.exports = {
     [
       "script", //点击出小爱心
       {
-        src:
-          "http://lc-zltjehai.cn-n1.lcfile.com/1db11318835ac608f824/clicklove.js"
+        src: "http://lc-zltjehai.cn-n1.lcfile.com/1db11318835ac608f824/clicklove.js"
       }
     ],
     [
@@ -52,7 +51,7 @@ module.exports = {
       },
       {
         text: "Library",
-        link: "/library/library",
+        link: "/library/",
         icon: "reco-up"
       },
       {

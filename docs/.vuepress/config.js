@@ -8,7 +8,7 @@ module.exports = {
     [
       "script", //点击出小爱心
       {
-        src: "http://lc-zltjehai.cn-n1.lcfile.com/1db11318835ac608f824/clicklove.js"
+        src: "http://lc-zltjehai.cn-n1.lcfile.com/4b9f43bce8bf5c4ed59d/clickheart.js"
       }
     ],
     [

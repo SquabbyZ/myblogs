@@ -11,7 +11,12 @@ module.exports = {
         src: "http://lc-zltjehai.cn-n1.lcfile.com/1db11318835ac608f824/clicklove.js"
       }
     ],
-
+    [
+      "script", //baidu站长管理工具的推送
+      {
+        src: "http://lc-zltjehai.cn-n1.lcfile.com/12fe8a35feaf973b9bf7/baidu.js"
+      }
+    ],
     [
       "link",
       {

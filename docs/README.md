@@ -19,6 +19,7 @@ features:
   details: Node.js 是一个基于 Chrome V8 引擎的 JavaScript 运行环境。
 - title: Vue.js
   details: Vue (读音 /vjuː/，类似于 view) 是一套用于构建用户界面的渐进式JavaScript框架。与其它大型框架不同的是，Vue 被设计为可以自底向上逐层应用。
+footer: MIT Licensed | Copyright © 2018-present Evan You
 ---
 
   <!-- <Particles></Particles> -->

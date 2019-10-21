@@ -124,8 +124,8 @@ module.exports = {
     lastUpdated: "最后更新时间",
     // 作者
     author: "zhuhaifeng",
-    // 备案号
-    // record: "30156924257911884(审核中)",
+    //备案号
+    record: "京ICP备案19045791号&京公网安备11030102010551号",
     // 项目开始时间
     startYear: "2019",
     // themePicker: {
@@ -163,7 +163,9 @@ module.exports = {
       verify: "true", //验证码服务
       avatar: "robohash",
       recordIP: "true" //Gravatar 头像展示方式
-    }
+    },
+    // Google Analytics
+    GAID: "UA-150394837-1"
   },
   markdown: {
     lineNumbers: true

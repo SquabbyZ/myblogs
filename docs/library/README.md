@@ -31,6 +31,8 @@
 |           jsdelivr           |                             [https://www.jsdelivr.com/](https://www.jsdelivr.com/)                             |
 |   文件格式在线转换免费网站   |                 [http://www.pdfdo.com/pdf-to-html.aspx](http://www.pdfdo.com/pdf-to-html.aspx)                 |
 |    图片其他格式转换成 Svg    |           [http://www.bejson.com/convert/image_to_svg/](http://www.bejson.com/convert/image_to_svg/)           |
+|         Jenkins 官网         |                                   [https://jenkins.io/](https://jenkins.io/)                                   |
+|       Jenkins 官网文档       |                               [https://jenkins.io/doc/](https://jenkins.io/doc/)                               |
 
 ## UI 回旋踢 ===> 一库
 

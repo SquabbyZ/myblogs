@@ -33,6 +33,7 @@
 |    图片其他格式转换成 Svg    |           [http://www.bejson.com/convert/image_to_svg/](http://www.bejson.com/convert/image_to_svg/)           |
 |         Jenkins 官网         |                                   [https://jenkins.io/](https://jenkins.io/)                                   |
 |       Jenkins 官网文档       |                               [https://jenkins.io/doc/](https://jenkins.io/doc/)                               |
+|        Xind:Zen 官网         |                             [https://www.xmind.cn/zen/](https://www.xmind.cn/zen/)                             |
 
 ## UI 回旋踢 ===> 一库
 

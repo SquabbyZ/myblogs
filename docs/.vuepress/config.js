@@ -8,7 +8,8 @@ module.exports = {
     [
       "script", //点击出小爱心
       {
-        src: "http://lc-zltjehai.cn-n1.lcfile.com/4b9f43bce8bf5c4ed59d/clickheart.js"
+        src:
+          "http://lc-zltjehai.cn-n1.lcfile.com/4b9f43bce8bf5c4ed59d/clickheart.js"
       }
     ],
     [
@@ -128,9 +129,14 @@ module.exports = {
     // 最后更新时间
     lastUpdated: "最后更新时间",
     // 作者
-    author: "zhuhaifeng",
+    author: "所有版权归zhuhaifeng所有",
     //备案号
-    record: "京ICP备案19045791号&京公网安备11030102010551号",
+    // record: `京ICP备案19045791号&京公网安备11030102010551号 `,
+    record: "京ICP备案19045791号",
+    recordLink: "http://www.beian.miit.gov.cn",
+    cyberSecurityRecord: "公网安备11030102010551号",
+    cyberSecurityLink:
+      "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11030102010551",
     // 项目开始时间
     startYear: "2019",
     // themePicker: {

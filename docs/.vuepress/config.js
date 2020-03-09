@@ -46,22 +46,22 @@ module.exports = {
     nav: [
       //页面最上面的导航设置，text是文字名称，link 是跳转的路由，icon是图标
       {
-        text: "Home",
+        text: "主页",
         link: "/",
         icon: "reco-home"
       },
       {
-        text: "TimeLine",
+        text: "时间线",
         link: "/timeLine/",
         icon: "reco-date"
       },
       {
-        text: "Library",
+        text: "库",
         link: "/library/",
         icon: "reco-up"
       },
       {
-        text: "Conntect",
+        text: "联系方式",
         icon: "reco-message",
         items: [
           // {
@@ -102,7 +102,7 @@ module.exports = {
         ]
       },
       {
-        text: "about me",
+        text: "关于博主",
         link: "/views/other/guide.html",
         icon: "reco-account"
       }

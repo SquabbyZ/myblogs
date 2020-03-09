@@ -1,8 +1,8 @@
 {
     "name": "myblogs",
     "version": "1.0.0",
-    "repository": "http://recoluan.gitlab.io/vuepress-theme-reco-doc",
-    "author": "reco_luan",
+    "repository": "",
+    "author": "zhuhaifeng",
     "scripts": {
         "dev": "vuepress dev docs",
         "build": "vuepress build docs"
@@ -12,7 +12,7 @@
         "@vuepress/plugin-pwa": "1.0.3",
         "vuepress": "1.0.1",
         "vuepress-plugin-flowchart": "1.4.3",
-        "vuepress-theme-reco": "1.2.0"
+        "vuepress-theme-reco": "1.2.2"
     },
     "dependencies": {
         "express": "^4.17.1",

@@ -217,7 +217,13 @@ module.exports = {
       }
     ], //live2d
 
-    ["vuepress-plugin-boxx"]
+    ["vuepress-plugin-boxx"],
+    [
+      '@vuepress/google-analytics',
+      {
+        'ga': 'UA-160623098-1' // UA-00000000-0
+      }
+    ]
   ]
   // chainWebpack(config) {
   //   config.externals({

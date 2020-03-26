@@ -27,6 +27,7 @@
 |       fontawesome 图标(最近上不去)        |                               [https://fontawesome.com](https://fontawesome.com)                               |
 |           在线字体格式转换网站            |                 [https://www.fontke.com/tool/convfont/](https://www.fontke.com/tool/convfont/)                 |
 |                  求字体                   |                               [http://www.qiuziti.com/](http://www.qiuziti.com/)                               |
+|               免费字体网站                |                           [http://www.fontsquirrel.com](http://www.fontsquirrel.com)                           |
 |                  Swiper                   |                            [https://www.swiper.com.cn/](https://www.swiper.com.cn/)                            |
 |                 jsdelivr                  |                             [https://www.jsdelivr.com/](https://www.jsdelivr.com/)                             |
 |         文件格式在线转换免费网站          |                 [http://www.pdfdo.com/pdf-to-html.aspx](http://www.pdfdo.com/pdf-to-html.aspx)                 |

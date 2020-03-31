@@ -39,6 +39,7 @@
 |                 Sass 官网                 |                                [https://sass-lang.com/](https://sass-lang.com/)                                |
 |            Easy-mock可视化网站            |                           ![https://www.easy-mock.com/](https://www.easy-mock.com/)                            |
 | 可以查看各个浏览器及其版本对CSS的支持情况 |                                 ![https://caniuse.com/](https://caniuse.com/)                                  |
+|算法网站|[http://www.atool9.com/hash.php](http://www.atool9.com/hash.php)|
 
 ## UI 回旋踢 ===> 一库
 

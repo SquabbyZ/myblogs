@@ -45,6 +45,11 @@ categories:
 6. 安装 vim 编译器 `apt-get install vim`
 
 ## 安装步骤
+先使用命令创建 `ubuntu` 的镜像容器
+
+```bash
+docker run -itd --privileged=true --net=host --name fastzhu ubuntu
+```
 
 1. 在根目录下创建 `/fileservice/fast`
 ```bash
@@ -155,3 +160,17 @@ vim client.conf
 
 ```
 返回结果为 `group1/M00/00/00/fwAAAV82FKGAcmhBAABzjHEcGKw545.jpg`,则证明 fastdfs 安装启动成功
+
+
+## 安装过程中遇到的问题
+
+问题一: `ERROR - file: pthread_func.c, line: 121, call pthread_attr_setstacksize fail, errno: 22, error info: Invalid argument`
+
+解决方法:
+```bash
+cd /etc/fdfs
+vim tracker.conf
+
+```
+
+用 vim  修改进入文件后把 `thread_statck_size=64kb` 修改为 `thread_statck_size=1024kb`

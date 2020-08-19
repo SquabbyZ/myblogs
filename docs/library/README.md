@@ -42,7 +42,7 @@
 |            Easy-mock可视化网站            |                            [https://www.easy-mock.com/](https://www.easy-mock.com/)                            |
 | 可以查看各个浏览器及其版本对CSS的支持情况 |                                  [https://caniuse.com/](https://caniuse.com/)                                  |
 |                 算法网站                  |                        [http://www.atool9.com/hash.php](http://www.atool9.com/hash.php)                        |
-
+|           Mysql各种版本下载地址           |       [https://downloads.mysql.com/archives/community/](https://downloads.mysql.com/archives/community/)       |
 
 
 

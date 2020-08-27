@@ -3,6 +3,7 @@
 |                   串名                    |                                                      柜号                                                      |
 | :---------------------------------------: | :------------------------------------------------------------------------------------------------------------: |
 |               MDN Web 文档                |                  [https://developer.mozilla.org/zh-CN/](https://developer.mozilla.org/zh-CN/)                  |
+|              天津麒麟依赖包               |            [http://archive.kylinos.cn/kylin/KYLIN-ALL/](http://archive.kylinos.cn/kylin/KYLIN-ALL/)            |
 |               node.js 官网                |                       [https://nodejs.org/en/download/](https://nodejs.org/en/download/)                       |
 |               echarts 官网                |               [https://www.echartsjs.com/zh/index.html](https://www.echartsjs.com/zh/index.html)               |
 |                Lodash 官网                |                             [https://www.lodashjs.com/](https://www.lodashjs.com/)                             |

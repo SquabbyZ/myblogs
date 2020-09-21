@@ -8,7 +8,7 @@
 |               echarts 官网                |               [https://www.echartsjs.com/zh/index.html](https://www.echartsjs.com/zh/index.html)               |
 |                Lodash 官网                |                             [https://www.lodashjs.com/](https://www.lodashjs.com/)                             |
 |            Underscore.js 官网             |                   [https://www.html.cn/doc/underscore/](https://www.html.cn/doc/underscore/)                   |
-|              learnCloud 官网              |                                 [https://leancloud.cn/](https://leancloud.cn/)                                 |
+|              leanCloud 官网               |                                 [https://leancloud.cn/](https://leancloud.cn/)                                 |
 |               cesium 中文网               |          [http://cesium.xin/wordpress/archives/16.html](http://cesium.xin/wordpress/archives/16.html)          |
 |                mkcert 证书                |                 [https://github.com/FiloSottile/mkcert](https://github.com/FiloSottile/mkcert)                 |
 |                  Mongodb                  |                              [https://www.mongodb.com/](https://www.mongodb.com/)                              |

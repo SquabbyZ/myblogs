@@ -1,6 +1,6 @@
 ---
 title: 欢迎来到SquabbyZ的小黑屋
-date: 2019-09-04
+date: 2019-09-04 16:00:00
 ---
 
 ![](http://lc-zltjehai.cn-n1.lcfile.com/bcd92251a29608cc176c/welcome.jpg)
@@ -15,7 +15,6 @@ date: 2019-09-04
 3. (本博客使用的是 "vuepress-theme-reco",致谢)
    :::
 
-    
+
 
 ![](http://lc-zltjehai.cn-n1.lcfile.com/0973a36f74d082c9935c/message.gif)
-

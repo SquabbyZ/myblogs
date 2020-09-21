@@ -42,7 +42,7 @@ module.exports = {
   ],
   theme: "reco",
   themeConfig: {
-     type: "blog", //指定 type: 'blog'
+    //  type: "blog", //指定 type: 'blog'
     nav: [
       //页面最上面的导航设置，text是文字名称，link 是跳转的路由，icon是图标
       {

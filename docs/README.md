@@ -18,7 +18,7 @@ features:
 - title: Today
   details: 我是一名前端攻城狮小小白。
 - title: Tomorrow
-  details: 励志成为全栈小白 :)。
+  details: 励志成为全栈的小白 :)。
 footer: MIT Licensed | Copyright © 2018-present Evan You
 ---
 

@@ -14,7 +14,7 @@ actionText: 'Welcome My Blog'
 actionLink: /views/other/guide
 features:
 - title: Yesterday
-  details: 我只是个会 if else 的小小小白。
+  details: 我只是个会  if else  的小小小白。
 - title: Today
   details: 我是一名前端攻城狮小小白。
 - title: Tomorrow

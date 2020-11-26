@@ -7,7 +7,7 @@ reco-cli init my-blog
 
 # install
 cd my-blog
-yarn install
+yarn install  测试
 
 # run
 yarn dev
